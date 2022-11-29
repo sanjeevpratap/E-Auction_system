@@ -1,0 +1,21 @@
+.col-mf-3{
+    display: inline-block;
+    margin-left: -4px;
+    }
+    .col-mf-3 img{
+    width:100%;
+    height: auto;
+  }
+
+    body.carousal-indicator li{
+    background-color:red;
+    }
+    body .carousal-control-prev-icon,
+    body .carousal-control-next-icon{
+    background-color: blue;
+    }
+
+    body .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+    }
